@@ -9,7 +9,7 @@ export default function About() {
         &copy;m0destia 2025 - All rights reserved
       </span>
       <a
-        href="../../index.html"
+        href="https://m0destia.onrender.com"
         target="_blank"
         className="text-yellow-300 underline"
       >
