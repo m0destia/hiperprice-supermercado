@@ -1,3 +1,3 @@
 # Hiperprice Supermercado
 
-Made with React.
+Made with React, Vite, TailwindCSS, made for Vercel.
